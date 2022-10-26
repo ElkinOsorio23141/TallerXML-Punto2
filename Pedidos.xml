@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE listaPedidos SYSTEM "ListaPedidos.dtd">
+<listaPedidos>
+    <pedido>
+        <numeroSerie>8MCPU7C7</numeroSerie>
+        <cantidad>25</cantidad>
+    </pedido>
+</listaPedidos>
